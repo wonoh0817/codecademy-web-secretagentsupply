@@ -116,6 +116,7 @@ nav span a {
   margin: 2rem auto;
   height: 9rem;
   background-size: contain;
+  max-width: 8rem;
 }
 
 .product-container1 .grid p {
